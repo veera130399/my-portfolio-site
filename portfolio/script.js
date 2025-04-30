@@ -1,1 +1,1 @@
-console.log("Welcome to Veerendra's Portfolio");
+console.log("Portfolio site loaded!");
